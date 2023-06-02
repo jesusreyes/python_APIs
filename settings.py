@@ -1,0 +1,4 @@
+CLIENT_ID = '98a51862d92958a80838'
+SECRET_ID = '<SECRET_ID'
+
+access_token = '<ACCESS_TOKEN>'
